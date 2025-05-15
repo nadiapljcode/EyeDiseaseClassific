@@ -25,10 +25,11 @@ A dashboard analyzing rape case statistics in India using Python libraries like 
 3. Run the notebook cells step-by-step to see the dashboard and analysis.
 
 ## 📊 Screenshots
+### Dashboard
 ![image](https://github.com/user-attachments/assets/e980e45d-d86b-4b3c-9249-f57ef2377e26)
-Dashboard
+
+### Chart Generated Using Plotly
 ![image](https://github.com/user-attachments/assets/c920f867-8d8b-441d-b726-20a1f0ea1a80)
-Chart Generated using Plotly
 
 
 ## ✨ Contributors
