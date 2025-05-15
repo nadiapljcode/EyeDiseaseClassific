@@ -13,9 +13,8 @@ A dashboard analyzing rape case statistics in India using Python libraries like 
 - Plotly, Dash
 
 ## 📁 Project Structure
-- `dashboard.py` – Main app file
-- `data/` – Dataset(s)
-- `assets/` – (optional) for custom CSS, images
+- `Data_Analytics_Project_Nadia.ipynb` – Main app file
+- `data` – Dataset(s)
 
 ## 🚀 Getting Started
 1. Clone the repo
@@ -25,7 +24,7 @@ A dashboard analyzing rape case statistics in India using Python libraries like 
    `python dashboard.py`
 
 ## 📊 Screenshots
-(Add screenshots or a short gif here!)
+
 
 ## ✨ Contributors
-- [Your Name](https://github.com/yourusername)
+- Nadia Shaikh(https://github.com/nadiapljcode)
