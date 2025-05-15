@@ -1,4 +1,4 @@
-![SCR-20240222-iale](https://github.com/user-attachments/assets/8d22ae7f-cd92-4795-adbf-f1feb5ca8f23)# Rape Statistics Dashboard 📊
+# Rape Statistics Dashboard 📊
 
 A dashboard analyzing rape case statistics in India using Python libraries like Pandas, NumPy, Plotly, and Dash.
 
@@ -25,7 +25,10 @@ A dashboard analyzing rape case statistics in India using Python libraries like 
 3. Run the notebook cells step-by-step to see the dashboard and analysis.
 
 ## 📊 Screenshots
-![image](https://github.com/user-attachments/assets/9fca481c-8ee3-4e91-afc5-66231e7b1f0a)
+![image](https://github.com/user-attachments/assets/e980e45d-d86b-4b3c-9249-f57ef2377e26)
+Dashboard
+![image](https://github.com/user-attachments/assets/c920f867-8d8b-441d-b726-20a1f0ea1a80)
+Chart Generated using Plotly
 
 
 ## ✨ Contributors
