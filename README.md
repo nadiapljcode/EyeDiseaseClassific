@@ -32,5 +32,6 @@ A dashboard analyzing rape case statistics in India using Python libraries like 
 ![image](https://github.com/user-attachments/assets/c920f867-8d8b-441d-b726-20a1f0ea1a80)
 
 
-## ✨ Contributors
-- Nadia Shaikh(https://github.com/nadiapljcode)
+## ✨ Dashboard View
+- Click [here](https://youtu.be/BsT2fkjH4WY) to view the dashboard.
+
